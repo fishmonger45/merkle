@@ -1,0 +1,3 @@
+merkle_tree
+
+simple merkle tree. inputs block types are bytes which allows you to use whatever serialization of your choice without having to implement internal helper traits.
